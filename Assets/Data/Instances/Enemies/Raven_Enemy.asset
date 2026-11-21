@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02d4220f4c93e574e900345725c307cb, type: 3}
+  m_Name: Raven_Enemy
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyDataSO
+  enemyName: Acechador de Plumas
+  mainAnimationClip: {fileID: 7400000, guid: bcae1030eb5c6fb40af6865750b7b998, type: 2}
+  maxHealth: 80
+  moveSpeed: 5.5
+  contactDamage: 15
+  canShoot: 1
+  projectilePrefab: {fileID: 0}
+  projectileData: {fileID: 11400000, guid: bafc169ae7fafca45a2850ff4e3a7f9f, type: 2}
+  fireRate: 1.5
+  scorePoints: 100
+  expReward: 25
