@@ -16,13 +16,12 @@ MonoBehaviour:
   characterPortrait: {fileID: 6261260493624259580, guid: 634093579b9faa744839025f6a222ca6, type: 3}
   animatorController: {fileID: 9100000, guid: 314e4b274ea05fb429bb08d2d89364cc, type: 2}
   idleClip: {fileID: 7400000, guid: ff4b1dbd80ac987449cca7e87d78a20e, type: 2}
-  moveClip: {fileID: 7400000, guid: 7e0dcb355ccc68440b7aba8ea33dc555, type: 2}
   victoryClip: {fileID: 7400000, guid: 1263a5e0345d017488531d2a507555b0, type: 2}
   maxHealth: 100
   maxShield: 50
   startingLives: 3
   baseDefense: 5
   moveSpeed: 7
-  projectilePrefab: {fileID: 0}
+  projectilePrefab: {fileID: 5200332488826350625, guid: 918de053f7c3a554ab7d0e5a2a656be6, type: 3}
   projectileData: {fileID: 11400000, guid: 6ec88ebe5252c684db1b2ff7e2897faa, type: 2}
   fireRate: 0.25

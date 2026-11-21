@@ -10,7 +10,6 @@ public class PlayerStatsSO : ScriptableObject
     [Header("Animaciones del Jugador")]
     public RuntimeAnimatorController animatorController;
     public AnimationClip idleClip;
-    public AnimationClip moveClip;
     public AnimationClip victoryClip;
 
     [Header("Estadísticas Principales")]
